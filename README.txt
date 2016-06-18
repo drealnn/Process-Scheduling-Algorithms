@@ -1,8 +1,3 @@
------Daniel Sledd COP 4600--------
+# Proc Scheduler 
 
-Project made in java with the IntelliJ IDE
-
-To run via cmd:
-	navigate to out/production/OSScheduler/
-	copy over processes.in file
-	type 'java main' in cmd
+Implements the First-Come First-Served, preemptive Shortest Job First, and Round-Robin algorithms as for single processors.
